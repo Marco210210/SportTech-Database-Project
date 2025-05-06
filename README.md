@@ -64,7 +64,7 @@ SportTech-Database-Project/
 ## 👥 Contributors
 
 - Ambrosone Alessandro
-- Ciancio Vittorio
+- [Ciancio Vittorio](https://github.com/VittorioCiancio)
 - Cuomo Ferdinando
 - Di Maio Marco
 
